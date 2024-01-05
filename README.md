@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Inventory app
 ==================================
 
@@ -27,3 +28,6 @@ Getting Started
 ---------------
 
 1. Download and run the app.
+=======
+Iventory app using Room
+>>>>>>> refs/remotes/origin/master
